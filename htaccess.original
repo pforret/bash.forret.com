@@ -1,0 +1,13 @@
+# Newsletter
+Redirect 302 /newsletter        https://www.getrevue.co/profile/bashful
+Redirect 302 /email             https://www.getrevue.co/profile/bashful
+
+# Podcast
+Redirect 302 /podcast           https://www.youtube.com/playlist?list=PLm-_OLx_dIWQe-k3Rh83v0g0yGBUXWZLQ
+Redirect 302 /video             https://www.youtube.com/playlist?list=PLm-_OLx_dIWQe-k3Rh83v0g0yGBUXWZLQ
+
+# Bashew
+Redirect 302 /bashew            https://github.com/topics/bashew
+
+
+header("Location: https://blog.forret.com/portfolio/bashful/");

@@ -28,11 +28,14 @@ twitter_username: pforret
 github_username:  pforret
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: ngzhio/jekyll-theme-hamilton
+skin: daylight
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
