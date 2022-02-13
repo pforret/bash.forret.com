@@ -14,4 +14,5 @@ Homepage for my `bash` activities:
 * <i class="fas fa-terminal"></i> [Projects using Bashew](/bashew)
 
 ## Basher package manager
+* <i class="fab fa-github"></i> [basherpm/basher](https://github.com/basherpm/basher)
 * <i class="fas fa-cube"></i> [Basher Package manager](https://www.basher.it)
